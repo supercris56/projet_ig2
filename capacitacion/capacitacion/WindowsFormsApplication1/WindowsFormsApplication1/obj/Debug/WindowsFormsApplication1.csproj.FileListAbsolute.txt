@@ -19,3 +19,6 @@ E:\Ing_Soft2\3Corte\capacitacion\capacitacion\WindowsFormsApplication1\WindowsFo
 E:\Ing_Soft2\3Corte\capacitacion\capacitacion\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 E:\Ing_Soft2\3Corte\capacitacion\capacitacion\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 E:\Ing_Soft2\3Corte\capacitacion\capacitacion\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Asesor.resources
+C:\Users\Cris B\Documents\GitHub\projet_ig2\capacitacion\capacitacion\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Cris B\Documents\GitHub\projet_ig2\capacitacion\capacitacion\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Cris B\Documents\GitHub\projet_ig2\capacitacion\capacitacion\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
